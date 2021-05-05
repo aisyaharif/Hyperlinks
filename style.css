@@ -1,0 +1,27 @@
+body
+	{
+		background-color: #D7C6CF;
+	}
+
+a:link, a:visited
+	{
+		color: #8CABA8;
+		background-color:#DFDFDE;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: inline-block;
+	}
+
+a:hover
+{
+	color: #A2798F
+	background-color: pink;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: #5E3C58;
+	background-color: #C99789;
+}
